@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #212022!important;
+}
+
+.card {
+    background-color: #121113!important;
+}
+
+.fa-lock,
+.fa-key {
+    color: orange;
+}
